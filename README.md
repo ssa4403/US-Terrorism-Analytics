@@ -11,8 +11,11 @@ I undertook an extensive study of terrorism in the United States, focusing on de
 **Highlights** 
 
 **Predictive Modeling:** Utilized logistic regression and classification methods to predict the success rates of terrorist attacks, achieving 48% accuracy in binary outcome predictions.
+
 **Data Insights:** Leveraged Tableau for enhanced data visualization, aiding in the preprocessing and cleaning of data for model accuracy.
+
 **Machine Learning:** Explored various machine learning methods, including regression, classification, and clustering, to identify areas of severe attacks across states.
+
 **Model Proficiency:** Demonstrated a high proficiency in data analysis, achieving approximately 84% success rate in attack predictions.
 
 **Repository Contents**
