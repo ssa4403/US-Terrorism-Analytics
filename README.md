@@ -5,14 +5,16 @@
 This repository contains the analysis and predictive modeling of terrorist incidents in the United States. The project leverages Python, SAS, and Tableau to develop predictive models using logistic regression and classification methods, aiming to predict attack outcomes and enhance security measures. 
 
 **Project Description**
-We undertook an extensive study of terrorism in the United States, focusing on developing predictive models to assess the outcomes of terrorist attacks. By employing logistic regression and classification techniques, we achieved a 48% accuracy rate in predicting binary outcomes of attacks. Our work also involved significant data visualization efforts using Tableau, facilitating a deeper understanding of the data through efficient preprocessing, data cleaning, and outlier detection.Highlights
-Predictive Modeling: Utilized logistic regression and classification methods to predict the success rates of terrorist attacks, achieving 48% accuracy in binary outcome predictions.
-Data Insights: Leveraged Tableau for enhanced data visualization, aiding in the preprocessing and cleaning of data for model accuracy.
-Machine Learning: Explored various machine learning methods, including regression, classification, and clustering, to identify areas of severe attacks across states.
-Model Proficiency: Demonstrated a high proficiency in data analysis, achieving approximately 84% success rate in attack predictions.
+
+We undertook an extensive study of terrorism in the United States, focusing on developing predictive models to assess the outcomes of terrorist attacks. By employing logistic regression and classification techniques, we achieved a 48% accuracy rate in predicting binary outcomes of attacks. Our work also involved significant data visualization efforts using Tableau, facilitating a deeper understanding of the data through efficient preprocessing, data cleaning, and outlier detection.Highlights Predictive Modeling: Utilized logistic regression and classification methods to predict the success rates of terrorist attacks, achieving 48% accuracy in binary outcome predictions.
+
+**Data Insights**: Leveraged Tableau for enhanced data visualization, aiding in the preprocessing and cleaning of data for model accuracy.
+**Machine Learning**: Explored various machine learning methods, including regression, classification, and clustering, to identify areas of severe attacks across states.
+**Model Proficiency**: Demonstrated a high proficiency in data analysis, achieving approximately 84% success rate in attack predictions.
 
 **Repository Contents**
-Data_cleaning.ipynb: Jupyter Notebook containing the data cleaning and preprocessing steps.
+
+**Data_cleaning.ipynb**: Jupyter Notebook containing the data cleaning and preprocessing steps.
 Terrorism_Cleaned_Data.csv: CSV file of the cleaned and preprocessed dataset used for modeling.
 Terrorism_Dashboard.twb: Tableau workbook file with data visualizations and insights.
 Project_Report.docx: Comprehensive report detailing the project's background, methodology, and findings.
