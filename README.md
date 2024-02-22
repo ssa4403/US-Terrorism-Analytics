@@ -1,6 +1,7 @@
 # United States Terrorism Analytics Project
 
 **Overview**
+
 This repository contains the analysis and predictive modeling of terrorist incidents in the United States. The project leverages Python, SAS, and Tableau to develop predictive models using logistic regression and classification methods, aiming to predict attack outcomes and enhance security measures. 
 
 **Project Description**
